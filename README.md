@@ -15,7 +15,6 @@ What to do when you are at home due to this pandemic situation? I started to lea
 
  
 pip install -r requirements.txt
-```
  
 ## Directory Tree 
 ```
@@ -30,11 +29,6 @@ pip install -r requirements.txt
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
-
-
-## Technologies Used
-
- 
 
 ## Future Scope
 
